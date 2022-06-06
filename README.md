@@ -1,2 +1,1 @@
-# banned-words
-A repo for lists of banned words. 
+# URL Filtered Words List
